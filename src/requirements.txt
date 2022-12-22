@@ -1,0 +1,5 @@
+requests
+requests-cache
+dukpy
+beautifulsoup4
+flask
